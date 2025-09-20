@@ -1,0 +1,13 @@
+name = "Entity-Texture-Features Translation"
+filename = "etf_allVersion_translation.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/opLHMW67/versions/rMRKkkmR/etf_allVersion_translation.zip"
+hash-format = "sha512"
+hash = "768228fb0f254661388da0fd03cd5c0f78ca41ad637e9b99059ad00e16e65c91ec4719e241794c042331cfa52810a9c380d00a3283dbcdcee37ca1b6c60f69cc"
+
+[update]
+[update.modrinth]
+mod-id = "opLHMW67"
+version = "rMRKkkmR"
