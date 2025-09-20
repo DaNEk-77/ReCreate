@@ -121,11 +121,6 @@ hash = "acf3fc067068de93e700584d503b712fd9b7beb1d97e020f5fed48c8dfa17d27"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "40118245708e1298fb63e0b15297a1ffe0cfc0a481cbca023f00936b6fec8958"
 metafile = true
