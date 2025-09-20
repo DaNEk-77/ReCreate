@@ -94,8 +94,3 @@ metafile = true
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f62af5ab636c96e8915bb896ce4092b14b0c3a94a1d89af33853af20b1877f9d"
 metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
-metafile = true
