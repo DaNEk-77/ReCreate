@@ -176,6 +176,21 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "1a592e56f6720b44d1031d2d715d454eff2099e915160c0c75f853ae8b314b15"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "7e7b7624e041a1364971057d1c47f2b74730e191f142b73aa50223f95978dd96"
+metafile = true
+
+[[files]]
 file = "resourcepacks/entity-texture-features-translation.pw.toml"
 hash = "d3383057e65db3ca479dbdc4a74ab3583760ae79e61b05edbb620ff9e053eec5"
 metafile = true
