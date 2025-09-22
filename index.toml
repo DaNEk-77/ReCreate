@@ -76,6 +76,11 @@ hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "fc90107a8ba7d443f4e38c2b46743a54bb02596bf076d1de6889eb4d62e5a255"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -173,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]

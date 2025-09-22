@@ -1,0 +1,13 @@
+name = "Effortless Building"
+filename = "effortlessbuilding-1.20.1-3.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DYtfQEYj/versions/GCzIlABB/effortlessbuilding-1.20.1-3.10.jar"
+hash-format = "sha512"
+hash = "4fa3a6fff79a6613f84def1013b39f903309a2dd154c5471d1b2ed1bd3ede945246b1d12d4b3d0a88bf18f6ea2f9c7f20d0401a5283a6963392722d78df9c266"
+
+[update]
+[update.modrinth]
+mod-id = "DYtfQEYj"
+version = "GCzIlABB"
