@@ -16,6 +16,11 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "b34ab3eeb165e1e89ea277a2bad3da0a4a0ee81d744b30c424e1a0eec7d5042b"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
 metafile = true
@@ -126,6 +131,11 @@ hash = "acf3fc067068de93e700584d503b712fd9b7beb1d97e020f5fed48c8dfa17d27"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+hash = "c280e2b0fec3014a909c19bb654492d58d7c272307e2a2920f13125016a2d8eb"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "40118245708e1298fb63e0b15297a1ffe0cfc0a481cbca023f00936b6fec8958"
 metafile = true
@@ -156,6 +166,11 @@ hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "1512cf02885b053f953618449de5c98ab15b448e2712a742b18aae29ade3ec96"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "1588f074af0ca7a5145fd676faf3e14381bb96d1383a3dfbaac7398b1dc6e2fd"
 metafile = true
@@ -181,6 +196,16 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "d179e74a88c7b6795afb48d866904697fcf0f0733612314990705e14c06f0651"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5dbc1ed70c1dd5c99c93d353b6267c6a4e7af2b342d0ad4ddecf54593e199224"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "1a592e56f6720b44d1031d2d715d454eff2099e915160c0c75f853ae8b314b15"
 metafile = true
@@ -188,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7e7b7624e041a1364971057d1c47f2b74730e191f142b73aa50223f95978dd96"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eating-animations-quark-compatibility.pw.toml"
+hash = "382a379e358d2993a8195669e1938c207eb4e6773dcb8ca9877e00dca9085473"
 metafile = true
 
 [[files]]
