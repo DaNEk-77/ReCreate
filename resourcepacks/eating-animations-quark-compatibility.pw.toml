@@ -1,0 +1,13 @@
+name = "Eating Animations Quark Compatibility"
+filename = "Eating Animations Quark Compat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "25c125d0c012d0f8a335d61e0de16444fac35bb2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6877375
+project-id = 1325698
