@@ -216,11 +216,6 @@ hash = "7e7b7624e041a1364971057d1c47f2b74730e191f142b73aa50223f95978dd96"
 metafile = true
 
 [[files]]
-file = "resourcepacks/eating-animations-quark-compatibility.pw.toml"
-hash = "382a379e358d2993a8195669e1938c207eb4e6773dcb8ca9877e00dca9085473"
-metafile = true
-
-[[files]]
 file = "resourcepacks/entity-texture-features-translation.pw.toml"
 hash = "d3383057e65db3ca479dbdc4a74ab3583760ae79e61b05edbb620ff9e053eec5"
 metafile = true
