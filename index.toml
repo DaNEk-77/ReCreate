@@ -211,11 +211,6 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
-file = "mods/staaaaaaaaaaaack.pw.toml"
-hash = "aa15f807d2a5f088e79460b5a98ea1f9dbfc5a25fcc97da41c9152d82930e0f8"
-metafile = true
-
-[[files]]
 file = "mods/the-zoomify-mod.pw.toml"
 hash = "b75a777a1f65a833e5398800f3fe2715b0828989d366c38eca724c0269e233be"
 metafile = true
