@@ -141,6 +141,11 @@ hash = "acf3fc067068de93e700584d503b712fd9b7beb1d97e020f5fed48c8dfa17d27"
 metafile = true
 
 [[files]]
+file = "mods/gjeb.pw.toml"
+hash = "881204b1ca70dbcb2102c08fce17e34adeecc17bdb6850101cf9e047d25aefa8"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "40118245708e1298fb63e0b15297a1ffe0cfc0a481cbca023f00936b6fec8958"
 metafile = true
