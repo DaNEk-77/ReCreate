@@ -56,8 +56,23 @@ hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
 metafile = true
 
 [[files]]
+file = "mods/create-additional-recipes.pw.toml"
+hash = "64b5079dd3826eab0fd393a2e9efdc69d90498ba461964f2e144761ad4e86fef"
+metafile = true
+
+[[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "cc93c7dd457427c7a6db51fe412a53771e2e6d6539d312d5141b050a32d45fb2"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "c670ae9055f10dafb61fe340583c361f4c41ed45671c9440bae1f0696b47252a"
+metafile = true
+
+[[files]]
+file = "mods/create-entitycontroller.pw.toml"
+hash = "cf593f4bfb5bc2b6ae0bdbbbca797a6af0da4c9ffe62ecd7c6eb20b3457544b4"
 metafile = true
 
 [[files]]
@@ -72,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
+hash = "26b5eb49763ba8b3078ea93222f2b73e86ad4b3b2030a1b7628aab37b9061ae2"
 metafile = true
 
 [[files]]
