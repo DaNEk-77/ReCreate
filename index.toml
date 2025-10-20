@@ -6,11 +6,6 @@ hash = "3d9599c451cf6d6acf3bc99a782286ea3325e11555f1055af7c59bf626351169"
 metafile = true
 
 [[files]]
-file = "mods/adm-anticheat.pw.toml"
-hash = "a3721010865775deaf840dd2b9ac8ec12cc68f9b84c06dfa60a4a329e2dfc22a"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "dfab1141c0b00ca194d3826f3bbc06f6b50ed844ecad886bb69fb3d560090b0e"
 metafile = true
